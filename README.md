@@ -1,1 +1,1 @@
-# The source code will be publicly available upon the acceptance.
+# Beyond Foundation Models: Distilling Geometric Priors for Lightweight Monocular Depth Estimation in Endoscopy
