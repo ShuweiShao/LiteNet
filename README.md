@@ -17,8 +17,9 @@ Please create the environment using:
 ```bash
 conda env create -f environment.yml
 conda activate *
+```
+
 
 ## Evaluation
-
 ```bash
 python evaluate_depth.py --data_path ./your_data --load_weights_folder ./your_weight --eval_mono
