@@ -1,4 +1,3 @@
-name: /mnt/data/shaoshuwei/anaconda3/envs/endodac
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r/
