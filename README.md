@@ -5,7 +5,7 @@ IEEE Transactions on Medical Imaging, 2026
 ## Overview
 
 <p align="center">
-  <img src="assets/overall-new.pdf" width=800/>
+  <img src="overall.png" width=800/>
 </p>
 
 
