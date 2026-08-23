@@ -25,6 +25,14 @@ conda activate *
 python evaluate_depth.py --data_path ./your_data --load_weights_folder ./your_weight --eval_mono
 ```
 
+## Pre-trained Weights
+
+The pretrained model weights are available at:
+
+**Download link:**  
+[Google Drive](https://drive.google.com/drive/folders/15igg2C0qVi4Eim7pJJmFJFQTsuidxIyU?usp=drive_link)
+
+
 ## Citation
 If you find this work useful, please consider citing:
 ```bash
